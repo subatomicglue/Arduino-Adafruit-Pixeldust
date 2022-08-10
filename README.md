@@ -72,6 +72,7 @@ You should be able to open and build the `ino` sketch now.
 - Select under `Tools / Board / "Adafruit MatrixPortal M4 (SAMD51)"`
 - In a terminal, find your serial port
   - In a terminal (MacOS): `ls /dev/tty.*` to find your port (e.g. `/dev/tty.usbmodem14244401`)
+  - You can plug/unplug it, to notice which one it is...
 - Select the `Tools / Port /  "/dev/tty.usbmodem14244401"`
 - Select `Sketch / Verify/Compile`, then `Sketch / Upload`
 - (enjoy?)
