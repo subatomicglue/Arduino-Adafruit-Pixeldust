@@ -23,8 +23,8 @@ We ended up using the [Attom Tech 3000mAh](https://www.amazon.com/gp/product/B07
 <img src="../screenshots/IMG_8932.jpeg" alt="Back" width="200"/>
 
 ### Some people might benefit from these battery mounts as well (from [Adafruit](https://learn.adafruit.com/matrix-portal-sand/assembly))
-- battery-holder-horz.stl
-- battery-holder-vert.stl
+- [battery-holder-horz.stl](battery-holder-horz.stl)
+- [battery-holder-vert.stl](battery-holder-vert.stl)
 
 
 
