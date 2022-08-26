@@ -1,6 +1,6 @@
 # [Fork] of Adafruit's "Pixel dust" Protomatter library example For ADAFRUIT's MATRIXPORTAL M4.
 
-<img src="screenshots/IMG_8939.jpeg" alt="Front" width="200"/><img src="screenshots/IMG_8929.jpeg" alt="Kickstand!" width="400"/><img src="screenshots/IMG_8926.jpeg" alt="Magnets" width="200"/>
+<a href="models/README.md"><img src="screenshots/IMG_8939.jpeg" alt="Front" width="200"/><img src="screenshots/IMG_8929.jpeg" alt="Kickstand!" width="400"/><img src="screenshots/IMG_8926.jpeg" alt="Magnets" width="200"/></a>
 
 This is a 64x32 RGB color LED matrix running an interactive sand particle simulation that responds to moving and tilting the device.
 
