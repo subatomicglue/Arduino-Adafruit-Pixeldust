@@ -4,8 +4,8 @@
 
 This is a 64x32 RGB color LED matrix running an interactive sand particle simulation that responds to moving and tilting the device.
 
+See Adafruit's original "pixeldust" project [here](https://learn.adafruit.com/adafruit-matrixportal-m4/arduino-pixel-dust-demo), and the original [source code](https://github.com/adafruit/Adafruit_Protomatter/tree/master/examples/pixeldust).<br>
 Buy a Matrixportal [here](https://www.adafruit.com/product/4745)
-See Adafruit's original "pixeldust" project [here](https://learn.adafruit.com/adafruit-matrixportal-m4/arduino-pixel-dust-demo), and the original [source code](https://github.com/adafruit/Adafruit_Protomatter/tree/master/examples/pixeldust).
 
 - New Features in this Fork:
   - 6 color themes
