@@ -79,7 +79,7 @@ You should be able to open and build the `ino` sketch now.
 - Select `Sketch / Verify/Compile`, then `Sketch / Upload`
 - (enjoy?)
 
-# Also cool
-- [3D printed handles](models)
+# 3D printed parts
+- [Handles & Kickstand](models)
 
 
