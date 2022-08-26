@@ -70,7 +70,7 @@ You should be able to open and build the `ino` sketch now.
 
 ## Build
 - Plug in your MatrixPortalM4 via USB data cable to the computer
-- Start the Arduino IDE
+- Start the Arduino IDE (we used `v1.8.19`)
 - Select under `Tools / Board / "Adafruit MatrixPortal M4 (SAMD51)"`
 - In a terminal, find your serial port
   - In a terminal (MacOS): `ls /dev/tty.*` to find your port (e.g. `/dev/tty.usbmodem14244401`)
