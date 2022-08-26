@@ -16,7 +16,7 @@
 - [MatrixPortalKickstand.stl](MatrixPortalKickstand.stl)
 
 <img src="../screenshots/IMG_8929.jpeg" alt="Kickstand!" width="800"/>
-<img src="../screenshots/IMG_8928.jpeg" alt="Kickstand" width="300"/><img src="../screenshots/IMG_8931.jpeg" alt="Kickstand!" width="500"/>
+<img src="../screenshots/IMG_8928.jpeg" alt="Kickstand" width="300"/><img src="../screenshots/IMG_8931.jpeg" alt="Kickstand!" width="400"/>
 
 # Battery?
 We ended up using the [Attom Tech 3000mAh](https://www.amazon.com/gp/product/B07JZCZSH9/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) 0.35" thin battery (you have only 0.5" clearence on the back so 0.35" was perfect), and zip-tying the battery to the frame.  Works great.  Thin enough so we can still use the magnetic feet to stick the display to a metal fridge or filecabinet.
