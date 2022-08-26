@@ -15,9 +15,9 @@
 # Kickstands are .... AWESOME
 - [MatrixPortalKickstand.stl](MatrixPortalKickstand.stl)
 
-<img src="../screenshots/IMG_8928.jpeg" alt="Kickstand" width="400"/><img src="../screenshots/IMG_8931.jpeg" alt="Kickstand!" width="400"/>
+<img src="../screenshots/IMG_8928.jpeg" alt="Kickstand" width="400"/><img src="../screenshots/IMG_8930.jpeg" alt="Back" width="400"/>
 
-<img src="../screenshots/IMG_8929.jpeg" alt="Kickstand!" width="400"/><img src="../screenshots/IMG_8930.jpeg" alt="Back" width="400"/>
+<img src="../screenshots/IMG_8929.jpeg" alt="Kickstand!" width="400"/><img src="../screenshots/IMG_8931.jpeg" alt="Kickstand!" width="400"/>
 
 
 # Battery?
